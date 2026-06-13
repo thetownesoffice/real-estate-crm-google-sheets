@@ -139,4 +139,4 @@ All client data is confidential and has been removed from the files in this repo
 
 ## About This Build
 
-This project was built by Cherelle Townes of [The Townes Office](https://github.com/yourusername) — an AI-Powered Business Operations Consultant specializing in building custom back-end systems for small businesses and independent professionals using AI-assisted tools.
+This project was built by Cherelle Townes of [The Townes Office](https://github.com/thetownesoffice) — an AI-Powered Business Operations Consultant specializing in building custom back-end systems for small businesses and independent professionals using AI-assisted tools.
